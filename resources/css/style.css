@@ -110,6 +110,14 @@ header .mobile {
   }
 }
 
+/* Banner Section */
+
+.banner {
+  background-image: url("../images/banner-landingpage.jpg");
+  width: 100%;
+  height: auto;
+}
+
 /* Sign Up Section */
 
 #sign-up-section {
